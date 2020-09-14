@@ -1,0 +1,42 @@
+.article
+{
+	margin: auto;;
+	max-width: 800px;
+	background-color: lightblue;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+h1
+{
+	margin: 10px;
+}
+
+img
+{
+	border: 3px solid black;
+	margin: 10px;
+}
+
+p
+{
+	margin: 10px;
+}
+
+.img1
+{
+	float: left;
+	margin-left: 0;	
+}
+
+.img2
+{
+	float: right;
+	margin-right: 0;
+}
+
+.img3
+{
+	float: left;
+	margin-left: 0;	
+}
